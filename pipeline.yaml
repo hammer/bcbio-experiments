@@ -1,0 +1,8 @@
+details:
+  - files: ['1.txt']
+    description: '1'
+    genome_build: false
+    algorithm:
+      aligner: false
+
+

@@ -1,7 +1,8 @@
 details:
   - files: ['1.txt']
     description: '1'
-    genome_build: false
+    genome_build: GRCh37
+    analysis: minimal
     algorithm:
       aligner: false
 

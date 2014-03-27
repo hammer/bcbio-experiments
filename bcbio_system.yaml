@@ -1,4 +1,5 @@
 resources:
-  log:
-    dir: log
+  dummy: 
+galaxy_config: galaxy/universe_wsgi.ini
+
 

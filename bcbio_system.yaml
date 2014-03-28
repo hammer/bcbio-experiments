@@ -5,6 +5,8 @@ resources:
     dir: bin
   mutect:
     dir: bin
+  samtools:
+    cmd: bin/samtools
 
 galaxy_config: galaxy/universe_wsgi.ini
 

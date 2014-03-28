@@ -1,5 +1,11 @@
 resources:
-  dummy: 
+  gatk:
+    dir: bin
+  picard:
+    dir: bin
+  mutect:
+    dir: bin
+
 galaxy_config: galaxy/universe_wsgi.ini
 
 
